@@ -4,8 +4,7 @@
   "description": "An example of the generator https://github.com/maurizzzio/generator-mnm",
   "license": "MIT",
   "author": {
-    "name": "Mauricio Poppe",
-    "email": "mauricio.poppe@gmail.com"
+    "name": "Mauricio Poppe"
   },
   "main": "dist/generator-mnm-example.js",
   "module": "dist/generator-mnm-example.mjs",
